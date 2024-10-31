@@ -42,7 +42,7 @@
 - 📥 **Otomatik Güncelleme**. Herhangi bir güncelleme geldiğinde otomatik olarak sizin yerinize kurar.
 - ☕ **Otomatik Java İndirme**. Eğer java indirmediysen veya Java sürümün düşükse merak etme senin yerine yenisini kurar.
 - 📂 **Hesap Bilgileri**. Hesabınızla alakalı bilgilere launcher üzerinden güvenlikli bir şekilde görüntüleyebilirsiniz.
-- ⚙️ **Özelleştirebilir Ayalar**. Hem launcherın başlatma ayarlarını bilgisayarınızın performansına göre değiştirebilirsiniz.
+- ⚙️ **Özelleştirebilir Ayarlar**. Hem launcherın başlatma ayarlarını bilgisayarınızın performansına göre değiştirebilirsiniz.
 
 ## Planlanan Güncellemeler
 - 👥 **Arkadaş Sistemi**. Arkadaşlarını sunucudan ekleyerek kaybetme ve onların ne yaptıklarını izle.
