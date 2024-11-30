@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xmcl.app" target="_blank">
+  <a target="_blank">
     <img alt="Logo" width="100" src="https://raw.githubusercontent.com/MineKing-Development/MineKing-Launcher/refs/heads/main/assets/logo.png">
   </a>
 </p>
